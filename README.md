@@ -9,7 +9,7 @@ Not a prompt pack. Not a PDF. A real multi-agent setup you can run in 60 seconds
 ## Quick Start
 
 ```bash
-git clone https://github.com/clawroomos/openclaw-starter-kit.git
+git clone https://github.com/dropshipit369-blip/openclaw-starter-kit.git
 cd openclaw-starter-kit
 bash scripts/bootstrap.sh
 ```
