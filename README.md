@@ -99,7 +99,22 @@ This starter kit gets you running. The full kits add **hardened security, cost o
 | **Trading Variant** | Market analysis, risk framework, portfolio ops | $22 | [Get it](https://dropshipper117.gumroad.com/l/tvvhv) |
 | **All-5 Bundle** | Everything above. 25 agents, 200+ files. | **$49** | [Get it](https://dropshipper117.gumroad.com/l/wibbdo) |
 
-> The bundle saves 61% vs. buying separately ($127 -> $49).
+> The bundle saves 61% vs. buying separately ($127 → $49).
+
+---
+
+## Running CLAW-ROOM.OS? Unlock Premium Claude Code Skills
+
+If you're running agents through CLAW-ROOM.OS or Claude Code and hitting context drift, approval queue backlog, or context window crashes on long runs — there's a skill pack for that.
+
+**[Context Engineering for CLAW Operators — $29](https://clawroomos.com/skills)**
+
+3 production SKILL.md files:
+- `claw-context-engineer` — sliding window anchor pattern that stops prompt drift across 50+ tool calls
+- `claw-approval-gate` — 2-minute protocol to clear your Water Fountain approval queue decisively
+- `claw-memory-compact` — pre-limit compaction at 68% context usage so you never lose a long run
+
+One-time payment. Instant download. Lifetime updates. Drop into any Claude Code project in 60 seconds.
 
 ---
 
@@ -149,6 +164,7 @@ This gets you running with 2 agents. The paid kits add specialist agents, harden
 ## Links
 
 - [ClawRoom OS](https://clawroomos.com) — all products + blog
+- [Skills Pack](https://clawroomos.com/skills) — premium Claude Code skills for operators
 - [Twitter/X](https://x.com/clawroomos) — weekly threads on AI agent architecture
 - [Free updates](https://buttondown.com/clawroomos) — new templates + config tips
 
