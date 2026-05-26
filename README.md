@@ -46,8 +46,8 @@ openclaw-starter-kit/
 
 | Agent | Role | Model |
 |-------|------|-------|
-| **Orchestrator** | Front door. Routes coding tasks to Builder, handles everything else. | gpt-5.4-mini |
-| **Builder** | Implements code. Minimal, safe changes. Flags broken assumptions early. | gpt-5.4-mini |
+| **Orchestrator** | Front door. Routes coding tasks to Builder, handles everything else. | gpt-4o-mini |
+| **Builder** | Implements code. Minimal, safe changes. Flags broken assumptions early. | gpt-4o-mini |
 
 ---
 
@@ -118,6 +118,14 @@ One-time payment. Instant download. Lifetime updates. Drop into any Claude Code 
 
 ---
 
+## New: 50 AI Prompts for Solo Founders — $7
+
+Running lean with an AI agent stack? These are the prompts that actually move the needle.
+
+**[Get the prompt pack](https://dropshipper117.gumroad.com/l/ai-prompts-founders)** — Business strategy · Marketing copy · Content · Product · Operations
+
+---
+
 ## Architecture
 
 ```
@@ -165,6 +173,7 @@ This gets you running with 2 agents. The paid kits add specialist agents, harden
 
 - [ClawRoom OS](https://clawroomos.com) — all products + blog
 - [Skills Pack](https://clawroomos.com/skills) — premium Claude Code skills for operators
+- [Prompt Pack](https://dropshipper117.gumroad.com/l/ai-prompts-founders) — 50 AI prompts for solo founders ($7)
 - [Twitter/X](https://x.com/clawroomos) — weekly threads on AI agent architecture
 - [Free updates](https://buttondown.com/clawroomos) — new templates + config tips
 
